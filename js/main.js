@@ -22,7 +22,7 @@ $.ajax({
       // Embed description - text on 3rd row.
       description: 'Gay',
       // Link for title and thumbnail.
-      url: 'https://gist.github.com/TheDragonRing/ea61c8d21db17913a43da92efe0de634',
+      url: 'https://hentaihaven.org',
       // Decimal number colour of the side of the embed.
       color: 11730954,
       // Embed image - picture below description (and fields).
