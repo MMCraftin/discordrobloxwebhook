@@ -14,13 +14,13 @@ $.ajax({
     // The avatar to be displayed.
     avatar_url: 'https://cdn.discordapp.com/avatars/411256446638882837/9a12fc7810795ded801fdb0401db0be6.png',
     // Contents of the message to be sent.
-    content: 'Message content',
+    content: 'Fortnite Be Lit',
     // Embeds to be sent.
     embeds: [{
       // Embed title - link on 2nd row.
-      title: 'Title',
+      title: 'Ur Mum',
       // Embed description - text on 3rd row.
-      description: 'Description',
+      description: 'Gay',
       // Link for title and thumbnail.
       url: 'https://gist.github.com/TheDragonRing/ea61c8d21db17913a43da92efe0de634',
       // Decimal number colour of the side of the embed.
@@ -31,8 +31,8 @@ $.ajax({
       },
       // Embed author - icon next to text at top (text is a link).
       author: {
-        name: 'TheDragonRing',
-        url: 'https://thedragonring.me',
+        name: 'Minecraft',
+        url: 'https://hentaihaven.org',
         icon_url: 'https://avatars0.githubusercontent.com/u/16874139'
       },
       // Embed thumbnail - small image in top right corner.
@@ -41,12 +41,12 @@ $.ajax({
       },
       // Custom embed fields with a bold title/name, and normal content/value below title - located below description, above image.
       fields: [{
-        name: 'Field',
-        value: 'Field value'
+        name: 'Do U Know',
+        value: 'Da Wae'
       }],
       // Embed footer - icon next to text at bottom.
       footer: {
-        text: 'Footer',
+        text: 'El Enderdragon',
         icon_url: 'https://cdn.discordapp.com/avatars/411256446638882837/9a12fc7810795ded801fdb0401db0be6.png'
       }
     }]
