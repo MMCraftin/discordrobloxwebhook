@@ -6,7 +6,7 @@
 $.ajax({
   type: 'POST',
   // The webhook URL.
-  url: '_',
+  url: 'https://discordapp.com/api/webhooks/474203071690309635/ALUmM2Nv_D3gGwetX76iZei50CUNr_ldeI1rq-F8VookJ8IrHUjxA0lkGHYLYlGmPDoN',
   // Message data.
   data: JSON.stringify({
     // The username to be displayed.
